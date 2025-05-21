@@ -18,15 +18,16 @@ Welcome to **SLXT.ORG** — a minimalist hub for all my social links and online 
 ## 📎 Technologies Used
 
 - HTML / CSS / JavaScript  
-- [Optional: Mention any frameworks or tools used, e.g., TailwindCSS, Next.js, etc.]
+- No additional Framework has been used
 
 ## 📱 Links Included
 
 - Instagram  
-- Twitter / X  
+- Snapchat 
 - GitHub  
-- LinkedIn  
-- [And any others you include on the site]
+- Spotify  
+- Tel.-Nr.
+- 
 
 ## 🛠️ Setup (optional)
 
@@ -34,5 +35,4 @@ If you'd like to run or modify this project locally:
 
 ```bash
 git clone https://github.com/yourusername/slxt.org.git
-cd slxt.org
-# Open index.html in your browser
+
