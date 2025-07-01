@@ -25,9 +25,11 @@ Welcome to **SLXT.ORG** — a minimalist hub for all my social links and online 
 - Instagram  
 - Snapchat 
 - GitHub  
-- Spotify  
+- Spotify
+- Steam
+- TikTok
+- MkDocs
 - Tel.-Nr.
-- 
 
 ## 🛠️ Setup (optional)
 
